@@ -1,2 +1,2 @@
 # smartwatch
-DSTKE (ESP32 + OLED) 
+DSTIKE (ESP32 + OLED) 
